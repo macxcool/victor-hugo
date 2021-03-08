@@ -4173,10 +4173,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.npmjs.org/https-browserify/-/https-browserify-1.0.0.tgz"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hugo-bin@^0.63.0:
-  version "0.63.1"
-  resolved "https://registry.npmjs.org/hugo-bin/-/hugo-bin-0.63.1.tgz"
-  integrity sha512-ohxKjheC+/G/ZO44SvEOpjhj2LjhuSJuAPUUe4l/tPCUfNAFQPZackmkl4UuPayxemGm0SrNO+Ub44flLg218w==
+hugo-bin@^0.69.0:
+  version "0.69.0"
+  resolved "https://registry.npmjs.org/hugo-bin/-/hugo-bin-0.69.0.tgz"
+  integrity sha512-ufl89sX/PrNKo7gSkAoxlKynbELNt3OVYEEbTdhnsKpddec41a4MqRXv6KZnsQM82ApBzRHfdN0pVb07X6m/Wg==
   dependencies:
     bin-wrapper "^4.1.0"
     pkg-conf "^3.1.0"
@@ -8666,9 +8666,9 @@ websocket-extensions@>=0.1.1:
   resolved "https://registry.npmjs.org/websocket-extensions/-/websocket-extensions-0.1.4.tgz"
   integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
-whatwg-fetch@^3.6.2:
+whatwg-fetch@^3.0.0:
   version "3.6.2"
-  resolved "https://registry.yarnpkg.com/whatwg-fetch/-/whatwg-fetch-3.6.2.tgz#dced24f37f2624ed0281725d51d0e2e3fe677f8c"
+  resolved "https://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-3.6.2.tgz"
   integrity sha512-bJlen0FcuU/0EMLrdbJ7zOnW6ITZLrZMIarMUVmdKtsGvZna8vxKYaexICWPfZ8qwf9fzNq+UEIZrnSaApt6RA==
 
 which-module@^2.0.0:
